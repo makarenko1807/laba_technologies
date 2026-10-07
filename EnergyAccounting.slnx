@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EnergyAccounting.Api/EnergyAccounting.Api.csproj" />
+    <Project Path="src/EnergyAccounting.Client/EnergyAccounting.Client.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EnergyAccounting.Tests/EnergyAccounting.Tests.csproj" />
+  </Folder>
+</Solution>

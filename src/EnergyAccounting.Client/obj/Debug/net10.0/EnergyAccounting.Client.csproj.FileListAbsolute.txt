@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\bin\Debug\net10.0\EnergyAccounting.Client.exe
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\bin\Debug\net10.0\EnergyAccounting.Client.deps.json
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\bin\Debug\net10.0\EnergyAccounting.Client.runtimeconfig.json
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\bin\Debug\net10.0\EnergyAccounting.Client.dll
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\bin\Debug\net10.0\EnergyAccounting.Client.pdb
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\EnergyAccounting.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\EnergyAccounting.Client.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\EnergyAccounting.Client.AssemblyInfo.cs
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\EnergyAccounting.Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\EnergyAccounting.Client.dll
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\refint\EnergyAccounting.Client.dll
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\EnergyAccounting.Client.pdb
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\EnergyAccounting.Client.genruntimeconfig.cache
+C:\Users\admin\Desktop\технології розробки\laba_technologies\src\EnergyAccounting.Client\obj\Debug\net10.0\ref\EnergyAccounting.Client.dll
