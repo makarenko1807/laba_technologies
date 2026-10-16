@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
       "projectName": "EnergyAccounting.Client",
-      "projectPath": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Client\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

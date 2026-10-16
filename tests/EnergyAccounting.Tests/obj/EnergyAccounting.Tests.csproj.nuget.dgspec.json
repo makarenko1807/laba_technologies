@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj": {}
+    "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj": {
+    "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj",
         "projectName": "EnergyAccounting.Tests",
-        "projectPath": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\EnergyAccounting.Tests.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\tests\\EnergyAccounting.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
