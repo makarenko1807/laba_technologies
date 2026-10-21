@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj": {}
+    "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj": {
+    "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj",
         "projectName": "EnergyAccounting.Api",
-        "projectPath": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\технології розробки\\laba_technologies\\src\\EnergyAccounting.Api\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
