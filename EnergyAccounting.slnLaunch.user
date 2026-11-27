@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\EnergyAccounting.Api\\EnergyAccounting.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

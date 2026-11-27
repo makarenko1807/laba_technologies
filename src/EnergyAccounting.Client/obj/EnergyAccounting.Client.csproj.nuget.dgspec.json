@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj": {}
+    "C:\\technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj": {
+    "C:\\technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
+        "projectUniqueName": "C:\\technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
         "projectName": "EnergyAccounting.Client",
-        "projectPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\технології розробки\\технології-розробки\\laba_technologies\\src\\EnergyAccounting.Client\\obj\\",
+        "projectPath": "C:\\technologies\\src\\EnergyAccounting.Client\\EnergyAccounting.Client.csproj",
+        "packagesPath": "C:\\Users\\Дарія\\.nuget\\packages\\",
+        "outputPath": "C:\\technologies\\src\\EnergyAccounting.Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Дарія\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
